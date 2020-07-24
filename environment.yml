@@ -1,0 +1,12 @@
+name: gpu_hydro_lstm
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numba
+  - pandas
+  - pytorch-gpu
+  - tqdm
+  - jupyterlab
+  - ipywidgets
+  - widgetsnbextension
